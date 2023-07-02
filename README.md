@@ -8,3 +8,7 @@ To change the heuristic, change the value of variable (heuristic) in the main.py
 To change the sampling method, change the value of variable (sampling) in the main.py file
 
 Explanantion of other variables are in the script itself.
+
+Results can observed in the report subfolder consisting of the complete analytical report
+
+
